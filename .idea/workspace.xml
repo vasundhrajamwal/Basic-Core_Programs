@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a22788d7-eeb4-43f6-ac4b-2eb9ba4b3ba3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeapYear.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/FlipCoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/HarmonicNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/LargestOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/OddEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/QuotientRemainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/SwapTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelaz/basicprogram/VowelConsonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/vasun/IdeaProjects/LeapYear"
+    "last_opened_file_path": "C:/Users/vasun/IdeaProjects/WageComputation"
   }
 }]]></component>
   <component name="RunManager" selected="Application.PrimeFactorization">
